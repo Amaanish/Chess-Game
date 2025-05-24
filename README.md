@@ -4,8 +4,13 @@ This project is also a work in progress, I need to implement stockfish into the 
 
 I have used GNU compiler and SFML Library so installing those are a must for this to work.
 
+
+
+```bash
 sudo apt update
 sudo apt install g++
 sudo apt install libsfml-dev
+```
+
 
 Youtube video which I have used to do the code:https://www.youtube.com/watch?v=_4EuZI8Q8cs
