@@ -30,6 +30,7 @@ sudo apt install libsfml-dev
 
 ## Project Structure
 Chess-Game/
+
 ├── main.cpp            
 ├── Connector.hpp        
 ├── stockfish.exe        
