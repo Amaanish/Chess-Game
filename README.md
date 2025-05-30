@@ -1,10 +1,10 @@
-# ♟️ Chess Game in C++ with Stockfish Integration
+#  Chess Game in C++ with Stockfish Integration
 
 A console-based chess game developed in **C++**, designed to deepen understanding of core programming concepts and system-level development. This project integrates the **Stockfish** chess engine to enhance gameplay and AI capabilities.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Console-based gameplay** with a text-based interface
 - **Move validation** to prevent illegal moves
@@ -12,7 +12,7 @@ A console-based chess game developed in **C++**, designed to deepen understandin
 
 ---
 
-## 🛠️ Installation
+##  Installation
 
 ### Prerequisites
 
@@ -28,7 +28,7 @@ sudo apt install g++
 sudo apt install libsfml-dev
 ```
 
-##Project Structure
+## Project Structure
 Chess-Game/
 ├── main.cpp            
 ├── Connector.hpp        
