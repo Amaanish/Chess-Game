@@ -281,7 +281,7 @@ bool isKingInCheck(bool white)  // Is king under attack?
 
 ---
 
-## 🐛 Known Limitations
+##  Known Limitations
 
 - Requires Stockfish executable in game directory
 - Limited to single game session per run
@@ -291,7 +291,7 @@ bool isKingInCheck(bool white)  // Is king under attack?
 
 ---
 
-## 🚀 Future Enhancement Ideas
+##  Future Enhancement Ideas
 
 - **Features**:
   - Game history and replay functionality
