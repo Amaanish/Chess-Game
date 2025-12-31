@@ -11,7 +11,7 @@ This chess implementation demonstrates **two major versions** showing clear prog
 - **V1**: Basic foundation with simple drag-and-drop and move tracking
 - **V2 (Current)**: Full-featured game with complete chess rules, AI opponent, turn management, and game state detection
 
-The project integrates **Stockfish**—one of the strongest open-source chess engines—to provide challenging AI opponents and comprehensive move validation.
+The project integrates **Stockfish**, one of the strongest open-source chess engines to provide challenging AI opponents and comprehensive move validation.
 
 ---
 
