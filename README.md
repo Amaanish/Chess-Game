@@ -124,13 +124,6 @@ sudo apt install libsfml-dev
   
   Place these DLL files in the same directory as the executable for the game to run.
 
-#### On macOS:
-
-```bash
-brew install gcc
-brew install sfml
-```
-
 ---
 
 ## 🔧 Compilation & Execution
